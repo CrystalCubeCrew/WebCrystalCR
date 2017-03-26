@@ -1,0 +1,13 @@
+name: WebCrystal
+version: 0.1.0
+
+authors:
+  - crystalchan <crystalcubecrew@gmail.com>
+
+targets:
+  WebCrystal:
+    main: src/WebCrystal.cr
+
+crystal: 0.21.1
+
+license: MIT

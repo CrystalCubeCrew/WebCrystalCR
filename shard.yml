@@ -3,6 +3,7 @@ version: 0.1.0
 
 authors:
   - crystalchan <crystalcubecrew@gmail.com>
+  - tehjawn <tehjawn@gmail.com>
 
 targets:
   WebCrystal:
@@ -11,3 +12,8 @@ targets:
 crystal: 0.21.1
 
 license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master

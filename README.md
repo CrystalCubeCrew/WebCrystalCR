@@ -1,27 +1,31 @@
 # WebCrystal
 
-TODO: Write a description here
+A web interface for the CrystalCloud written in Crystal, powered by Kemal and React.
 
 ## Installation
 
-TODO: Write installation instructions here
+git clone https://github.com/CrystalCubeCrew/WebCrystal.git
 
 ## Usage
 
-TODO: Write usage instructions here
+(Requires [Crystal](https://crystal-lang.org/) and C compiler to be installed)
+
+- shards install
+
+- crystal src/app.cr
 
 ## Development
 
-TODO: Write development instructions here
+- **src** folder contains web source code
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/WebCrystal/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
+1. Fork it ( https://github.com/CrystalCubeCrew/WebCrystal/fork )
+2. Create your feature branch (git checkout -b my-new-crystal-feature)
 3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
+4. Push to the branch (git push origin my-new-crystal-feature)
 5. Create a new Pull Request
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) crystalchan - creator, maintainer
+- John Nguyen [@tehjawn](https://github.com/tehjawn)

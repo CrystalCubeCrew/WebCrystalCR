@@ -1,5 +1,9 @@
-require "./WebCrystal/*"
+# WebCrystal Server
 
-module WebCrystal
-  # TODO Put your code here
+require "kemal"
+
+get "/" do
+  "Hello World!"
 end
+
+Kemal.run
